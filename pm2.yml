@@ -1,5 +1,5 @@
 apps:
-  - script : node_modules/react-server-cli/target/cli.js
+  - script : node_modules/react-scripts/scripts/start.js
     args   : 'start'
     name   : 'react-server'
     watch  : true
